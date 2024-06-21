@@ -20,6 +20,11 @@ body {
   padding: 8px;
 }
 
+.title,
+.content {
+  margin-bottom: 8px;
+}
+
 .title {
   background: #e3f4ff;
 }
