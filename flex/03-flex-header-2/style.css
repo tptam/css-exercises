@@ -20,7 +20,9 @@ body {
 
 .wrapper-right,
 .wrapper-left {
-  /* display: flex; */
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
 
 .profile-image {
