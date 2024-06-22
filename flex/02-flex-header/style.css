@@ -33,5 +33,6 @@ a {
 .left-links ul {
   display: flex;
   padding: 0px;
+  gap: 10px;
 }
 
