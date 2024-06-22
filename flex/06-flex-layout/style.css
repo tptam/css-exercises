@@ -11,6 +11,8 @@ body {
 
 .header, .footer {
   flex: none;
+  display: flex;
+  justify-content: space-between;
 }
 
 .content {
@@ -22,7 +24,7 @@ body {
   gap: 15px;
 }
 
-ul {
+.header ul, .footer ul {
   list-style-type: none;
   margin: 0px;
   padding: 0px;
