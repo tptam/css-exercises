@@ -46,6 +46,10 @@ body {
   align-items: flex-start;
 }
 
+.header {
+  font-size: larger;
+  font-weight: bold;
+}
 .close-button {
   background: #eee;
   border-radius: 50%;
