@@ -40,6 +40,12 @@ body {
   flex: 0 0 42px;
 }
 
+.header-close {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
