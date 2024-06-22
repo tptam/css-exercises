@@ -22,6 +22,12 @@ body {
   gap: 15px;
 }
 
+ul {
+  list-style-type: none;
+  margin: 0px;
+  padding: 0px;
+}
+
 img {
   width: 600px;
 }
